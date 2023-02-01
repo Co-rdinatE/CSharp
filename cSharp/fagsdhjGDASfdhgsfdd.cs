@@ -1,6 +1,6 @@
 using System;
 
-namespace fagsdhjGDASfdhgsfdd.cs
+namespace fagsdhjGDASfdhgsfdd
 {
     internal class Program
     {
@@ -11,6 +11,7 @@ namespace fagsdhjGDASfdhgsfdd.cs
             Console.WriteLine("HAHAHAHAH \"Noobs\" "); //Having the " in a string
             Console.WriteLine(name4);
         }
+
         static void Main(string[] args)
         {
             Console.Write("Input required: ");
@@ -65,7 +66,7 @@ namespace fagsdhjGDASfdhgsfdd.cs
                     Console.WriteLine("really, 0 age?");
                     break;
                 case -1:
-                    Console.WriteLine("stfu ur not even being serious");
+                    Console.WriteLine("ur not even being serious");
                     break;
                 case 18:
                     Console.WriteLine("welcome to the adulthood");
